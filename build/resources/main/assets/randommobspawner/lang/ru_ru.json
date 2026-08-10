@@ -1,0 +1,5 @@
+{
+  "mob.spawn.message": "%s появился около %s",
+  "bossbar.title": "Следующий спавн через %d сек",
+  "command.interval.set": "Интервал спавна установлен на %d секунд."
+}

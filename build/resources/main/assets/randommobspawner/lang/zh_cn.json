@@ -1,0 +1,5 @@
+{
+  "mob.spawn.message": "%s 出现在 %s 附近",
+  "bossbar.title": "下次生成还有 %d 秒",
+  "command.interval.set": "生成间隔设置为 %d 秒."
+}

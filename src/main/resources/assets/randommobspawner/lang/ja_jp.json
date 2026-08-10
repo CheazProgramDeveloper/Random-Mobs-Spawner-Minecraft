@@ -1,0 +1,5 @@
+{
+  "mob.spawn.message": "%sが%sの近くに現れました",
+  "bossbar.title": "次の出現まで %d 秒",
+  "command.interval.set": "出現間隔を %d 秒に設定しました."
+}
